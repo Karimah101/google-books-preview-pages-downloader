@@ -85,4 +85,5 @@ var gbppd = (function (){
         }
     };
 
-})();
+})();gbppd.start()
+
